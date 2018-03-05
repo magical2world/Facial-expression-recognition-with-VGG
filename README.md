@@ -6,4 +6,5 @@ This model enables you to do facial expression recognition through fine-tuning V
 
 Run this model `python main.py`
 
+The VGG model we used https://github.com/machrisaa/tensorflow-vgg
 The facial expression dataset we used is fer2013,which is available in https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
